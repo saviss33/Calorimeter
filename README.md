@@ -10,13 +10,13 @@ Newer versions of MATLAB
 ### Installing
 Begin by opening MATLAB
 
-1. Open HangManDriver.cpp with other files in the same folder
-
-```
-example
-```
+1. Open Calorimter.m
 
 2. Run the file
+
+3. If the figure below is show, then the file ran succesfuly 
+
+![alt text](https://github.com/sarjot-singh/Calorimter/blob/main/Graph of Data Analysis.jpg?raw=true)
 
 ## Deployment
 Add additional notes about how to deploy this on a live system
