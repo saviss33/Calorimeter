@@ -16,7 +16,7 @@ Begin by opening MATLAB
 
 3. If the figure below is show, then the file ran succesfuly 
 
-![alt text](https://github.com/sarjot-singh/Calorimter/blob/main/Graph of Data Analysis.jpg?raw=true)
+![alt text](https://github.com/sarjot-singh/Calorimter/blob/main/Graph.jpg?raw=true)
 
 ## Deployment
 Add additional notes about how to deploy this on a live system
