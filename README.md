@@ -10,7 +10,7 @@ Newer versions of MATLAB
 ### Installing
 Begin by opening MATLAB
 
-1. Open Calorimter.m
+1. Open Calorimeter.m
 
 2. Run the file
 
