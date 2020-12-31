@@ -25,7 +25,7 @@ Add additional notes about how to deploy this on a live system
 * **Sarjot Singh** - (https://github.com/sarjot-singh)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE)file for details
+This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 * Instructors
