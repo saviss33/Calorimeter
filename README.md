@@ -16,7 +16,7 @@ Begin by opening MATLAB
 
 3. If the figure below is show, then the file ran succesfuly 
 
-![alt text](https://github.com/sarjot-singh/Calorimter/blob/main/Graph)
+![Graph](https://user-images.githubusercontent.com/74841664/103421624-34319c00-4b52-11eb-8169-31570b96c96b.jpg)
 
 ## Deployment
 Add additional notes about how to deploy this on a live system
