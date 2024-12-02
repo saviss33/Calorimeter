@@ -19,7 +19,7 @@ Begin by opening MATLAB
 ![Graph](https://user-images.githubusercontent.com/74841664/103421624-34319c00-4b52-11eb-8169-31570b96c96b.jpg)
 
 ## Authors
-* **Sarjot Singh** - (https://github.com/sarjot-singh)
+* **Savi Singh** - (https://github.com/saviss33)
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](LICENSE) file for details.
